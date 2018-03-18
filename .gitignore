@@ -1,0 +1,5 @@
+#compiled directory and file
+bundle.js
+
+#directory dependency
+node_modules/

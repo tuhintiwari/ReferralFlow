@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "tuhintiwari <tuhintiwari25@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "^3.3.7"
+  }
+}
