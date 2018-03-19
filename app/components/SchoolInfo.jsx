@@ -7,9 +7,7 @@ module.exports = createReactclassName({
             <div className="wrap-login100">
 				<form className="login100-form validate-form">
 					<center><img className = "dimensions" src="images/Red-Cross.png"/></center>
-					<span className="login100-form-logo">
-						<i className="zmdi zmdi-landscape"></i>
-					</span> 
+				
 
 					<span className="login100-form-title p-b-34 p-t-27">
 						Patient LOG IN	
