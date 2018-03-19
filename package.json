@@ -1,7 +1,6 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,10 +13,22 @@
     "express": "^4.16.3",
     "guid": "0.0.12",
     "gulp": "^3.9.1",
+    "install": "^0.10.4",
+    "npm": "^5.7.1",
     "react": "^16.2.0",
     "react-bootstrap": "^0.32.1",
     "react-dom": "^16.2.0",
     "reactify": "^1.1.1",
     "vinyl-source-stream": "^2.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuhintiwari/ReferralFlow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tuhintiwari/ReferralFlow/issues"
+  },
+  "homepage": "https://github.com/tuhintiwari/ReferralFlow#readme",
+  "description": ""
 }
